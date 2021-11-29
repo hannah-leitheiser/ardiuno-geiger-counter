@@ -1,0 +1,13 @@
+Geiger Count:2021-11-28T23:13:51:1
+Geiger Count:2021-11-28T23:13:56:1
+Geiger Count:2021-11-28T23:14:01:3
+Geiger Count:2021-11-28T23:14:06:6
+Geiger Count:2021-11-28T23:14:11:7
+Geiger Count:2021-11-28T23:14:16:8
+Geiger Count:2021-11-28T23:14:21:9
+Geiger Count:2021-11-28T23:14:26:9
+Geiger Count:2021-11-28T23:14:31:11
+Geiger Count:2021-11-28T23:14:36:12
+Geiger Count:2021-11-28T23:14:41:13
+Geiger Count:2021-11-28T23:14:46:15
+Geiger Count:2021-11-28T23:14:51:15
